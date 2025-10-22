@@ -1,5 +1,7 @@
 ## Hi there 👋
 I analyse long range data quickly and efficiently
+🌱 I’m currently learning Java Script...
+👯 I’m looking to collaborate on Data Analytics...
 <!--
 **Hillary-Moneme/Hillary-Moneme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
